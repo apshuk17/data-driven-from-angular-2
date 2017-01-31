@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { DataDrivenComponent } from './data-driven/data-driven.component';
 
 @Component({
   selector: 'dt-root',
